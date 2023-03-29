@@ -5,7 +5,7 @@ This is the Simple Search Engine (Kotlin) project I made myself.
 
 In this project you will create your own search engine, though it probably won’t compete with Google. Yours will be a simple search engine that processes a limited collection of data and searches it for a word or a phrase. It’ll be simple but cool.
 
-<bSimple Search Engine (Kotlin) is a graduate project.</b><br>
+<b>Simple Search Engine (Kotlin) is a graduate project.</b><br>
 It contains core topics for track Kotlin Developer. Apply core topics in project stages. Solve at least one graduate project to complete the track.<p>
 
 Learn more at https://hyperskill.org/projects/89
